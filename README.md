@@ -16,6 +16,6 @@
 
 ### 相关效果
 
-![截屏2024-01-14 17.07.09](/Users/jackhuang/GitHub/Hackintosh-MAXSUN-H610M挑战者-12100F-rx5700/README.assets/截屏2024-01-14 17.07.09-5223923.png)
+![截屏2024-01-14 17.07.09](README.assets/%E6%88%AA%E5%B1%8F2024-01-14%2017.07.09-5224520.png)
 
-![截屏2024-01-14 17.08.27](/Users/jackhuang/GitHub/Hackintosh-MAXSUN-H610M挑战者-12100F-rx5700/README.assets/截屏2024-01-14 17.08.27-5223923.png)
+![截屏2024-01-14 17.08.27](README.assets/%E6%88%AA%E5%B1%8F2024-01-14%2017.08.27-5224520.png)
